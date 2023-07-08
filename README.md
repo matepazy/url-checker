@@ -5,5 +5,5 @@
 Type a url *(ex.: google.com)* press the `ELEMZÉS` button `-->` Url sent to VirusTotal API `-->` Test result gets sent back to the client.
 
 # Known issues
-⚠️ This is an issue with **VirusTotal**
+⚠️ This is an issue with **VirusTotal** <br>
 `Issue: The result can be false positive, and vice-versa`
