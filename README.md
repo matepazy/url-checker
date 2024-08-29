@@ -1,3 +1,6 @@
+# ⚠️ This project is no longer maintained by me.
+If you want to take over the project message me at `mate@pazmandi.net`
+
 # Url Checker
 `main.py` contains the program, but `setup.py` is irrelevant, it contains the requirements, and my contact infos.
 
