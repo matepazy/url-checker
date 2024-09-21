@@ -9,7 +9,7 @@ def scan_url():
     payload = f"url={website}"
     headers = {
         "accept": "application/json",
-        "x-apikey": "7c2aa9318c7effa2410f385300475c8fe59eb05f0bb5ae9b7aef39878f0040d7",
+        "x-apikey": "xxxx",
         "content-type": "application/x-www-form-urlencoded"
     }
 
